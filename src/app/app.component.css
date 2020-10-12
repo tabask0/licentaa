@@ -1,5 +1,8 @@
-li {
-  margin-left: 90%;
-  margin-top: -4%;
-  list-style: none;
+#titles {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#titles:hover{
+  color: crimson;
+  font-size: 35px;
+  transition: ease-in-out 0.5s;
 }
