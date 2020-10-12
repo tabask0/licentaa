@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "licentaa"
+    }
+  },
+  "defaultProject": "licentaa",
+  "cli": {
+    "analytics": "fd049f9a-61ea-47b1-922b-6ef90a989c53"
+  }
 }
